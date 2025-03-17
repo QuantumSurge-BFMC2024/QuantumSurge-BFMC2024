@@ -1,4 +1,4 @@
-# Team-Name-BFMC2024
+# Quantum Surge-BFMC2024
 
 ## Project Overview
 This folder contains all the essential files related to the BFMC2024 project. It includes monitoring documents, project progress reports, and source code to support development and tracking efforts.
